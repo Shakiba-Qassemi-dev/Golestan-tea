@@ -7,7 +7,7 @@ Golestan tea
 
 -📆Created - june 2025
 
--🔧Technologies Used - reactjs
+-🔧Technologies Used - Reactjs
 
 -✅Role - Frontend
 
